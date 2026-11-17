@@ -1,1 +1,1 @@
-# RIDA-Ultra
+# Vibetrading-Plug-in
